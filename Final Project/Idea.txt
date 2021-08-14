@@ -1,0 +1,9 @@
+Workout capability
+choosing clothes material
+PC builder
+
+do i did my exercise correctly? :
+https://www.kaggle.com/athniv/exercisepatternpredict
+
+cari dataset:
+https://datasetsearch.research.google.com/search?query=exercise%20-site%3Akaggle.com&docid=L2cvMTFqbno5dGwyZA%3D%3D
